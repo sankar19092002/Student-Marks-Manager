@@ -65,5 +65,4 @@ The application displays student names, total marks, percentages, and grades in 
 ## ⚠️ Note
 Student records are stored temporarily in a Python list. Records will be lost when the program is closed.
 
-## 👨‍💻 Author
-Developed as a beginner-level Python project to practice programming fundamentals.
+
